@@ -1,28 +1,28 @@
 [
   {
-    titleByLanguage: {
+    "titleByLanguage": {
       // must be the exact names as in en.json, de.json etc.
-      'en': 'Flags of the World',
-      'de': 'Flaggen der Welt',
-      'es': 'Banderas del mundo',
-      'fr': 'Drapeaux du monde',
-      'it': 'Bandiere del mondo',
+      "en": "Flags of the World",
+      "de": "Flaggen der Welt",
+      "es": "Banderas del mundo",
+      "fr": "Drapeaux du monde",
+      "it": "Bandiere del mondo",
     },
-    image: 'images/learn_flags.png',
-    androidShopId: 'todo',
-    iosShopId: 'todo'
+    "image": "images/learn_flags.png",
+    "androidShopId": "todo",
+    "iosShopId": "todo"
   },
   {
-    titleByLanguage: {
+    "titleByLanguage": {
       // must be the exact names as in en.json, de.json etc.
-      'en': 'Hiragana & Katakana',
-      'de': 'Hiragana & Katakana',
-      'es': 'Hiragana & Katakana',
-      'fr': 'Hiragana & Katakana',
-      'it': 'Hiragana & Katakana',
+      "en": "Hiragana & Katakana",
+      "de": "Hiragana & Katakana",
+      "es": "Hiragana & Katakana",
+      "fr": "Hiragana & Katakana",
+      "it": "Hiragana & Katakana",
     },
-    image: 'images/learn_flags.png',
-    androidShopId: 'todo',
-    iosShopId: 'todo'
+    "image": "images/learn_flags.png",
+    "androidShopId": "todo",
+    "iosShopId": "todo"
   }
 ]
