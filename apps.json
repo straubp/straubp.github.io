@@ -1,7 +1,6 @@
 [
   {
     "titleByLanguage": {
-      // must be the exact names as in en.json, de.json etc.
       "en": "Flags of the World",
       "de": "Flaggen der Welt",
       "es": "Banderas del mundo",
@@ -14,7 +13,6 @@
   },
   {
     "titleByLanguage": {
-      // must be the exact names as in en.json, de.json etc.
       "en": "Hiragana & Katakana",
       "de": "Hiragana & Katakana",
       "es": "Hiragana & Katakana",
