@@ -7,8 +7,8 @@
       "fr": "Drapeaux du monde",
       "it": "Bandiere del mondo"
     },
-    "image": "learn_flags.png",
-    "androidShopId": "todo",
+    "image": "https://www.philstraub.com/learn_flags.png",
+    "androidShopId": "",
     "iosShopId": "todo"
   },
   {
@@ -19,7 +19,7 @@
       "fr": "Hiragana & Katakana",
       "it": "Hiragana & Katakana"
     },
-    "image": "learn_hiragana.png",
+    "image": "https://www.philstraub.com/learn_hiragana.png",
     "androidShopId": "todo",
     "iosShopId": "todo"
   }
