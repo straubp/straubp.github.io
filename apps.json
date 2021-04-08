@@ -8,8 +8,8 @@
       "it": "Bandiere del mondo"
     },
     "image": "https://www.philstraub.com/learn_flags.png",
-    "androidShopId": "",
-    "iosShopId": "todo"
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.readyactive",
+    "iosShopUrl": "https://apps.apple.com/app/indoor-survey/id994269367"
   },
   {
     "titleByLanguage": {
@@ -20,7 +20,7 @@
       "it": "Hiragana & Katakana"
     },
     "image": "https://www.philstraub.com/learn_hiragana.png",
-    "androidShopId": "todo",
-    "iosShopId": "todo"
+    "androidShopId": "https://play.google.com/store/apps/details?id=com.philstraub.readyactive",
+    "iosShopUrl": "https://apps.apple.com/app/indoor-survey/id994269367"
   }
 ]
