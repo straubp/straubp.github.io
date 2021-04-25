@@ -9,7 +9,7 @@
     },
     "image": "https://www.philstraub.com/learn_flags.png",
     "androidShopUrl": "https://play.google.com/apps/internaltest/4699740240952021947",
-    "iosShopUrl": "https://apps.apple.com/app/indoor-survey/id994269367"
+    "iosShopUrl": ""
   },
   {
     "titleByLanguage": {
@@ -21,6 +21,30 @@
     },
     "image": "https://www.philstraub.com/learn_hiragana.png",
     "androidShopUrl": "https://play.google.com/apps/internaltest/4699371457176523620",
-    "iosShopUrl": "https://apps.apple.com/app/indoor-survey/id994269367"
+    "iosShopUrl": ""
+  },
+  {
+    "titleByLanguage": {
+      "en": "Chemical Elements",
+      "de": "Chemische Elemente",
+      "es": "Elementos Químicos",
+      "fr": "Éléments Chimiques",
+      "it": "Elementi Chimici"
+    },
+    "image": "https://www.philstraub.com/learn_chemical_elements.png",
+    "androidShopUrl": "https://play.google.com/apps/internaltest/4700137532238801476",
+    "iosShopUrl": ""
+  },
+  {
+    "titleByLanguage": {
+      "en": "Capital Cities",
+      "de": "Hauptstädte",
+      "es": "Ciudades Capitales",
+      "fr": "Capitales",
+      "it": "Città Capitali"
+    },
+    "image": "https://www.philstraub.com/learn_capitals.png",
+    "androidShopUrl": "",
+    "iosShopUrl": ""
   }
 ]
