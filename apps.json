@@ -8,7 +8,7 @@
       "it": "Bandiere del mondo"
     },
     "image": "https://www.philstraub.com/learn_flags.png",
-    "androidShopUrl": "https://play.google.com/apps/internaltest/4699740240952021947",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_flags",
     "iosShopUrl": ""
   },
   {
@@ -20,7 +20,7 @@
       "it": "Hiragana & Katakana"
     },
     "image": "https://www.philstraub.com/learn_hiragana.png",
-    "androidShopUrl": "https://play.google.com/apps/internaltest/4699371457176523620",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_hiragana_katakana",
     "iosShopUrl": ""
   },
   {
@@ -32,7 +32,7 @@
       "it": "Elementi Chimici"
     },
     "image": "https://www.philstraub.com/learn_chemical_elements.png",
-    "androidShopUrl": "https://play.google.com/apps/internaltest/4700137532238801476",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_chemical_elements",
     "iosShopUrl": ""
   },
   {
@@ -44,7 +44,7 @@
       "it": "Città Capitali"
     },
     "image": "https://www.philstraub.com/learn_capitals.png",
-    "androidShopUrl": "https://play.google.com/apps/internaltest/4700334690593209307",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_capital_cities",
     "iosShopUrl": ""
   }
 ]
