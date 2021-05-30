@@ -46,5 +46,17 @@
     "image": "https://www.philstraub.com/learn_capitals.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_capital_cities",
     "iosShopUrl": ""
+  },
+  {
+    "titleByLanguage": {
+      "en": "American States",
+      "de": "Amerikanische Staaten",
+      "es": "Estados Americanos",
+      "fr": "États Américains",
+      "it": "Stati Americani"
+    },
+    "image": "https://www.philstraub.com/learn_american_states.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_american_states",
+    "iosShopUrl": ""
   }
 ]
