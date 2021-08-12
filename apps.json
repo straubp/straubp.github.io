@@ -58,5 +58,14 @@
     "image": "https://www.philstraub.com/learn_american_states.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_american_states",
     "iosShopUrl": ""
+  },
+  {
+    "titleByLanguage": {
+      "en": "U.S. Presidents",
+      "de": "US Präsidenten"
+    },
+    "image": "https://www.philstraub.com/learn_us_presidents.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_us_presidents",
+    "iosShopUrl": ""
   }
 ]
