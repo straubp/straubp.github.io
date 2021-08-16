@@ -1,0 +1,16 @@
+---
+layout: base
+---
+<div id="apps" class="row">
+{% for app in site.data.apps %}
+    <div class="col-sm-6">
+        {% include app_tile.html
+        image=app.image
+        name=app.name
+        description=app.description
+        urlGoogle=app.urlGoogle
+        urlApple=app.urlApple
+        %}
+    </div>
+{% endfor %}
+</div>

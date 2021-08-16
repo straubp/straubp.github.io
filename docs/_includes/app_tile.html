@@ -1,0 +1,17 @@
+<div class="card mb-3">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="{{ include.image }}" class="img-fluid p-3" alt="...">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">{{ include.name }}</h5>
+                <p class="card-text">{{ include.description }}</p>
+                <a href="{{ include.urlGoogle }}"><img style="max-width: 130px; margin-left: -6px;"  alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+                {% if include.urlApple and include.urlApple != "" and include.urlApple != nil %}
+                <a href="{{ include.urlApple }}"><img style="max-width: 130px; margin-left: -6px;" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
