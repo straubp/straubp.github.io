@@ -9,7 +9,7 @@
     },
     "image": "https://www.philstraub.com/assets/learn_flags.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_flags",
-    "iosShopUrl": ""
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-flags-of-the-world/id1583038202"
   },
   {
     "titleByLanguage": {
@@ -21,7 +21,7 @@
     },
     "image": "https://www.philstraub.com/assets/learn_hiragana.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_hiragana_katakana",
-    "iosShopUrl": ""
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-hiragana-and-katakana/id1583039052"
   },
   {
     "titleByLanguage": {
@@ -33,7 +33,7 @@
     },
     "image": "https://www.philstraub.com/assets/learn_chemical_elements.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_chemical_elements",
-    "iosShopUrl": ""
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-chemical-elements/id1581952820"
   },
   {
     "titleByLanguage": {
@@ -45,7 +45,7 @@
     },
     "image": "https://www.philstraub.com/assets/learn_capitals.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_capital_cities",
-    "iosShopUrl": ""
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-capital-cities/id1582219449"
   },
   {
     "titleByLanguage": {
@@ -57,7 +57,7 @@
     },
     "image": "https://www.philstraub.com/assets/learn_american_states.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_american_states",
-    "iosShopUrl": ""
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-american-states/id1583038813"
   },
   {
     "titleByLanguage": {
@@ -66,6 +66,6 @@
     },
     "image": "https://www.philstraub.com/assets/learn_us_presidents.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_us_presidents",
-    "iosShopUrl": ""
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-u-s-presidents/id1583039032"
   }
 ]
