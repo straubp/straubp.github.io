@@ -1,6 +1,24 @@
 [
   {
     "titleByLanguage": {
+      "en": "Famous Paintings",
+      "de": "Berühmte Gemälde"
+    },
+    "image": "https://www.philstraub.com/assets/learn_paintings.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_paintings",
+    "iosShopUrl": "https://apps.apple.com/us/app/learnem-famous-paintings/id1605960065"
+  },
+  {
+    "titleByLanguage": {
+      "en": "Latin Phrases",
+      "de": "Lateinische Sprüche"
+    },
+    "image": "https://www.philstraub.com/assets/learn_latin_phrases.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_latin_phrases",
+    "iosShopUrl": "https://apps.apple.com/us/app/learnem-latin-phrases/id1596294496"
+  },
+  {
+    "titleByLanguage": {
       "en": "Flags of the World",
       "de": "Flaggen der Welt",
       "es": "Banderas del mundo",

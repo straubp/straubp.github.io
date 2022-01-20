@@ -5,14 +5,36 @@
         </div>
         <div class="col-md-8">
             <div class="card-body">
-                <h5 class="card-title">{{ include.name }}</h5>
+                <h5 style="margin-bottom: 0" class="card-title">{{ include.name }}</h5>
+                {% if include.lang %}
+                <p style="margin-bottom: 0.5rem">
+                    {% for lang in include.lang %}
+                    {% if lang == 'en' %}
+                    <img src="assets/lang_en.png" width="20" title="English">
+                    {% endif %}
+                    {% if lang == 'de' %}
+                    <img src="assets/lang_de.png" width="20" title="German">
+                    {% endif %}
+                    {% if lang == 'es' %}
+                    <img src="assets/lang_es.png" width="20" title="Spanish">
+                    {% endif %}
+                    {% if lang == 'fr' %}
+                    <img src="assets/lang_fr.png" width="20" title="French">
+                    {% endif %}
+                    {% if lang == 'it' %}
+                    <img src="assets/lang_it.png" width="20" title="Italian">
+                    {% endif %}
+                    {% endfor %}
+                </p>
+                {% endif %}
                 <p class="card-text">{{ include.description }}</p>
                 {% if include.urlGoogle and include.urlGoogle != "" and include.urlGoogle != nil %}
-                <a href="{{ include.urlGoogle }}"><img style="height: 58px; margin-left: -6px;"  alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+                <a href="{{ include.urlGoogle }}" target="_blank"><img style="height: 58px; margin-left: -6px;"  alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
                 {% endif %}
                 {% if include.urlApple and include.urlApple != "" and include.urlApple != nil %}
-                <a href="{{ include.urlApple }}" style="border-radius: 13px; height: 55px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1633996800&h=8d723642e7a4f93b1788038ce249c1ae" alt="Download on the App Store"></a>
+                <a href="{{ include.urlApple }}" target="_blank" style="border-radius: 13px; height: 55px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1633996800&h=8d723642e7a4f93b1788038ce249c1ae" alt="Download on the App Store"></a>
                 {% endif %}
+
             </div>
         </div>
     </div>
