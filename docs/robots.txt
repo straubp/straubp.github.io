@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /impressum
+
+User-agent: Google-adstxt
+Disallow:
