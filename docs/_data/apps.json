@@ -1,5 +1,21 @@
 [
   {
+    "name": "High Score: Word Search",
+    "description": "Climb up the high score lists!",
+    "image": "assets/word_search.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.word_search",
+    "urlApple": "https://apps.apple.com/us/app/high-score-word-search/id1612967494",
+    "lang": ["en"]
+  },
+  {
+    "name": "High Score: Number Search",
+    "description": "Climb up the high score lists!",
+    "image": "assets/number_search.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.number_search",
+    "urlApple": "https://apps.apple.com/us/app/high-score-number-search/id1612967472",
+    "lang": ["en"]
+  },
+  {
     "name": "Learn'em: Famous Paintings",
     "description": "Multiple-choice/flashcard-based app for learning everything about famous paintings.",
     "image": "assets/learn_paintings.png",
@@ -61,6 +77,13 @@
     "image": "assets/learn_us_presidents.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_us_presidents&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
     "urlApple": "https://apps.apple.com/us/app/learn-u-s-presidents/id1583039032?itsct=apps_box_badge&amp;itscg=30200",
+    "lang": ["en", "de"]
+  },
+  {
+    "name": "Readyactive",
+    "description": "A to-do list app for everday life.<br><a href=\"readyactive/\">See details</a>",
+    "image": "assets/readyactive.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.readyactive",
     "lang": ["en", "de"]
   }
 ]
