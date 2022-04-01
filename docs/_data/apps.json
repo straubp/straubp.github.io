@@ -1,5 +1,13 @@
 [
   {
+    "name": "Match Kanas",
+    "description": "Learn to match Japanese kanas by matching Hiragana and/or Katakana and/or Romanji and/or their pronunciations.",
+    "image": "assets/match_kanas.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.match_kanas",
+    "urlApple": "https://apps.apple.com/us/app/match-kanas/id1615986464",
+    "lang": ["en"]
+  },
+  {
     "name": "High Score: Word Search",
     "description": "Climb up the high score lists!",
     "image": "assets/word_search.png",
