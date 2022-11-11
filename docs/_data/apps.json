@@ -1,5 +1,13 @@
 [
   {
+    "name": "Stocked",
+    "description": "Plan, build and manage an emergency stock based on official recommendations.",
+    "image": "assets/stocked.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.stock",
+    "urlApple": "https://apps.apple.com/us/app/stocked-household-supplies/id6443681922",
+    "lang": ["en", "de"]
+  },
+  {
     "name": "Match Kanas",
     "description": "Learn to match Japanese kanas by matching Hiragana and/or Katakana and/or Romanji and/or their pronunciations.",
     "image": "assets/match_kanas.png",
