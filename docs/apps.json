@@ -19,6 +19,14 @@
   },
   {
     "titleByLanguage": {
+      "de": "Wortschatz: Bildungssprache"
+    },
+    "image": "https://www.philstraub.com/assets/learn_wortschatz.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_wortschatz",
+    "iosShopUrl": "https://apps.apple.com/us/app/wortschatz-bildungssprache/id6446649489"
+  },
+  {
+    "titleByLanguage": {
       "en": "Flags of the World",
       "de": "Flaggen der Welt",
       "es": "Banderas del mundo",
