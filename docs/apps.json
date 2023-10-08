@@ -19,6 +19,14 @@
   },
   {
     "titleByLanguage": {
+      "de": "Zitate"
+    },
+    "image": "https://www.philstraub.com/assets/learn_zitate.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_zitate",
+    "iosShopUrl": "https://apps.apple.com/us/app/lerne-zitate/id6468910576"
+  },
+  {
+    "titleByLanguage": {
       "de": "Wortschatz: Bildungssprache"
     },
     "image": "https://www.philstraub.com/assets/learn_wortschatz.png",
