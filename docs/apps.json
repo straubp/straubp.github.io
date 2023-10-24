@@ -35,6 +35,14 @@
   },
   {
     "titleByLanguage": {
+      "de": "Jägersprache"
+    },
+    "image": "https://www.philstraub.com/assets/learn_jaegersprache.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_jaegersprache",
+    "iosShopUrl": "https://apps.apple.com/us/app/lerne-j%C3%A4gersprache/id6470146287"
+  },
+  {
+    "titleByLanguage": {
       "en": "Flags of the World",
       "de": "Flaggen der Welt",
       "es": "Banderas del mundo",
