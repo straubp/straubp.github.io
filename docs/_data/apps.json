@@ -1,5 +1,13 @@
 [
   {
+    "name": "Sophisticated Vocabulary",
+    "description": "Multiple-choice/flashcard-based app for learning sophisticated English vocabulary.",
+    "image": "assets/learn_sophisticated_vocabulary.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_sophisticated_vocabulary&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+    "urlApple": "https://apps.apple.com/us/app/sophisticated-vocabulary/id6470744874?itsct=apps_box_badge&amp;itscg=30200",
+    "lang": ["en"]
+  },
+  {
     "name": "Stocked",
     "description": "Plan, build and manage an emergency stock based on official recommendations.",
     "image": "assets/stocked.png",

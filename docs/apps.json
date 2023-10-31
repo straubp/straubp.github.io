@@ -1,6 +1,14 @@
 [
   {
     "titleByLanguage": {
+      "en": "Sophisticated Vocabulary"
+    },
+    "image": "https://www.philstraub.com/assets/learn_sophisticated_vocabulary.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_sophisticated_vocabulary",
+    "iosShopUrl": "https://apps.apple.com/us/app/sophisticated-vocabulary/id6470744874"
+  },
+  {
+    "titleByLanguage": {
       "en": "Famous Paintings",
       "de": "Berühmte Gemälde"
     },
