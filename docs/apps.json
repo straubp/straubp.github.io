@@ -1,11 +1,68 @@
 [
   {
     "titleByLanguage": {
-      "en": "Sophisticated Vocabulary"
+      "en": "Tourist in Japan"
     },
-    "image": "https://www.philstraub.com/assets/learn_sophisticated_vocabulary.png",
-    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_sophisticated_vocabulary",
-    "iosShopUrl": "https://apps.apple.com/us/app/sophisticated-vocabulary/id6470744874"
+    "image": "https://www.philstraub.com/assets/phrases_jp.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_phrases_jp",
+    "iosShopUrl": "https://apps.apple.com/us/app/tourist-in-japan/id6517353903"
+  },
+  {
+    "titleByLanguage": {
+      "en": "Flags of the World",
+      "de": "Flaggen der Welt",
+      "es": "Banderas del mundo",
+      "fr": "Drapeaux du monde",
+      "it": "Bandiere del mondo"
+    },
+    "image": "https://www.philstraub.com/assets/learn_flags.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_flags",
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-flags-of-the-world/id1583038202"
+  },
+  {
+    "titleByLanguage": {
+      "en": "Hiragana & Katakana",
+      "de": "Hiragana & Katakana",
+      "es": "Hiragana & Katakana",
+      "fr": "Hiragana & Katakana",
+      "it": "Hiragana & Katakana"
+    },
+    "image": "https://www.philstraub.com/assets/learn_hiragana.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_hiragana_katakana",
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-hiragana-and-katakana/id1583039052"
+  },
+  {
+    "titleByLanguage": {
+      "en": "Chemical Elements",
+      "de": "Chemische Elemente",
+      "es": "Elementos Químicos",
+      "fr": "Éléments Chimiques",
+      "it": "Elementi Chimici"
+    },
+    "image": "https://www.philstraub.com/assets/learn_chemical_elements.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_chemical_elements",
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-chemical-elements/id1581952820"
+  },
+  {
+    "titleByLanguage": {
+      "en": "U.S. Presidents",
+      "de": "US Präsidenten"
+    },
+    "image": "https://www.philstraub.com/assets/learn_us_presidents.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_us_presidents",
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-u-s-presidents/id1583039032"
+  },
+  {
+    "titleByLanguage": {
+      "en": "Capital Cities",
+      "de": "Hauptstädte",
+      "es": "Ciudades Capitales",
+      "fr": "Capitales",
+      "it": "Città Capitali"
+    },
+    "image": "https://www.philstraub.com/assets/learn_capitals.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_capital_cities",
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-capital-cities/id1582219449"
   },
   {
     "titleByLanguage": {
@@ -51,54 +108,6 @@
   },
   {
     "titleByLanguage": {
-      "en": "Flags of the World",
-      "de": "Flaggen der Welt",
-      "es": "Banderas del mundo",
-      "fr": "Drapeaux du monde",
-      "it": "Bandiere del mondo"
-    },
-    "image": "https://www.philstraub.com/assets/learn_flags.png",
-    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_flags",
-    "iosShopUrl": "https://apps.apple.com/us/app/learn-flags-of-the-world/id1583038202"
-  },
-  {
-    "titleByLanguage": {
-      "en": "Hiragana & Katakana",
-      "de": "Hiragana & Katakana",
-      "es": "Hiragana & Katakana",
-      "fr": "Hiragana & Katakana",
-      "it": "Hiragana & Katakana"
-    },
-    "image": "https://www.philstraub.com/assets/learn_hiragana.png",
-    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_hiragana_katakana",
-    "iosShopUrl": "https://apps.apple.com/us/app/learn-hiragana-and-katakana/id1583039052"
-  },
-  {
-    "titleByLanguage": {
-      "en": "Chemical Elements",
-      "de": "Chemische Elemente",
-      "es": "Elementos Químicos",
-      "fr": "Éléments Chimiques",
-      "it": "Elementi Chimici"
-    },
-    "image": "https://www.philstraub.com/assets/learn_chemical_elements.png",
-    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_chemical_elements",
-    "iosShopUrl": "https://apps.apple.com/us/app/learn-chemical-elements/id1581952820"
-  },
-  {
-    "titleByLanguage": {
-      "en": "Capital Cities",
-      "de": "Hauptstädte",
-      "es": "Ciudades Capitales",
-      "fr": "Capitales",
-      "it": "Città Capitali"
-    },
-    "image": "https://www.philstraub.com/assets/learn_capitals.png",
-    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_capital_cities",
-    "iosShopUrl": "https://apps.apple.com/us/app/learn-capital-cities/id1582219449"
-  },
-  {
-    "titleByLanguage": {
       "en": "American States",
       "de": "Amerikanische Staaten",
       "es": "Estados Americanos",
@@ -111,11 +120,10 @@
   },
   {
     "titleByLanguage": {
-      "en": "U.S. Presidents",
-      "de": "US Präsidenten"
+      "en": "Sophisticated Vocabulary"
     },
-    "image": "https://www.philstraub.com/assets/learn_us_presidents.png",
-    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_us_presidents",
-    "iosShopUrl": "https://apps.apple.com/us/app/learn-u-s-presidents/id1583039032"
+    "image": "https://www.philstraub.com/assets/learn_sophisticated_vocabulary.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_sophisticated_vocabulary",
+    "iosShopUrl": "https://apps.apple.com/us/app/sophisticated-vocabulary/id6470744874"
   }
 ]
