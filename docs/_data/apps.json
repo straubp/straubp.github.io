@@ -80,6 +80,14 @@
     "lang": ["de"]
   },
   {
+    "name": "Seemannssprache",
+    "description": "Multiple-choice/flashcard-based app for learning \"Seemannssprache\".",
+    "image": "assets/learn_seemannssprache.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_seemannssprache&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+    "urlApple": "https://apps.apple.com/us/app/seemannssprache/id6744369742?itsct=apps_box_badge&amp;itscg=30200",
+    "lang": ["de"]
+  },
+  {
     "name": "Jägersprache",
     "description": "Multiple-choice/flashcard-based app for learning German \"Jägersprache\".",
     "image": "assets/learn_jaegersprache.png",

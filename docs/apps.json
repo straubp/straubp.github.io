@@ -100,6 +100,14 @@
   },
   {
     "titleByLanguage": {
+      "de": "Seemannssprache"
+    },
+    "image": "https://www.philstraub.com/assets/learn_seemannssprache.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_seemannssprache",
+    "iosShopUrl": "https://apps.apple.com/us/app/seemannssprache/id6744369742"
+  },
+  {
+    "titleByLanguage": {
       "de": "Jägersprache"
     },
     "image": "https://www.philstraub.com/assets/learn_jaegersprache.png",
