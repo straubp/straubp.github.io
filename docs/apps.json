@@ -100,6 +100,18 @@
   },
   {
     "titleByLanguage": {
+      "en": "Multiplication",
+      "de": "Multiplikation",
+      "es": "Multiplicación",
+      "fr": "Multiplication",
+      "it": "Moltiplicazione"
+    },
+    "image": "https://www.philstraub.com/assets/learn_multiplication.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_multiply",
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-multiplication/id6747091289"
+  },
+  {
+    "titleByLanguage": {
       "de": "Seemannssprache"
     },
     "image": "https://www.philstraub.com/assets/learn_seemannssprache.png",

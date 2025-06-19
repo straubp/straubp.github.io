@@ -80,6 +80,14 @@
     "lang": ["de"]
   },
   {
+    "name": "Multiplication",
+    "description": "Multiple-choice/flashcard-based app for learning \"Multiplication\" up to 20x20.",
+    "image": "assets/learn_multiplication.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_multiply&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+    "urlApple": "https://apps.apple.com/us/app/learn-multiplication/id6747091289?itsct=apps_box_badge&amp;itscg=30200",
+    "lang": ["en", "de", "es", "fr", "it"]
+  },
+  {
     "name": "Seemannssprache",
     "description": "Multiple-choice/flashcard-based app for learning \"Seemannssprache\".",
     "image": "assets/learn_seemannssprache.png",
