@@ -81,10 +81,18 @@
   },
   {
     "name": "Multiplication",
-    "description": "Multiple-choice/flashcard-based app for learning \"Multiplication\" up to 20x20.",
+    "description": "Multiple-choice/flashcard-based app for learning multiplication up to 20x20.",
     "image": "assets/learn_multiplication.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_multiply&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
     "urlApple": "https://apps.apple.com/us/app/learn-multiplication/id6747091289?itsct=apps_box_badge&amp;itscg=30200",
+    "lang": ["en", "de", "es", "fr", "it"]
+  },
+  {
+    "name": "Greek Alphabet",
+    "description": "Multiple-choice/flashcard-based app for learning the Greek Alphabet.",
+    "image": "assets/learn_greek_alphabet.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_greek_alphabet&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+    "urlApple": "https://apps.apple.com/us/app/learn-the-greek-alphabet/id6754611469?itsct=apps_box_badge&amp;itscg=30200",
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {

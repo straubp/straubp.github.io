@@ -112,6 +112,18 @@
   },
   {
     "titleByLanguage": {
+      "en": "Greek Alphabet",
+      "de": "Griechisches Alphabet",
+      "es": "Alfabeto Griego",
+      "fr": "Alphabet Grec",
+      "it": "Alfabeto Greco"
+    },
+    "image": "https://www.philstraub.com/assets/learn_greek_alphabet.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_greek_alphabet",
+    "iosShopUrl": "https://apps.apple.com/us/app/learn-the-greek-alphabet/id6754611469"
+  },
+  {
+    "titleByLanguage": {
       "de": "Seemannssprache"
     },
     "image": "https://www.philstraub.com/assets/learn_seemannssprache.png",
