@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tourist in Japan",
+    "name": "Travel Japanese Trainer",
     "description": "Multiple-choice/flashcard-based app for learning Japanese phrases, numbers and foods for tourists.",
     "image": "assets/phrases_jp.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_phrases_jp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -16,7 +16,7 @@
     "lang": ["en", "de"]
   },
   {
-    "name": "Flags of the World",
+    "name": "World Flags Trainer",
     "description": "Multiple-choice/flashcard-based app for learning the flags of all countries.",
     "image": "assets/learn_flags.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_flags&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -24,7 +24,7 @@
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {
-    "name": "Hiragana & Katakana",
+    "name": "Hiragana & Katakana Trainer",
     "description": "Multiple-choice/flashcard-based app for learning the Japanese syllables Hiragana and Katakana.",
     "image": "assets/learn_hiragana.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_hiragana_katakana&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -32,7 +32,7 @@
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {
-    "name": "Chemical Elements",
+    "name": "Chemical Elements Practice",
     "description": "Multiple-choice/flashcard-based app for learning the chemical elements.",
     "image": "assets/learn_chemical_elements.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_chemical_elements&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -40,7 +40,7 @@
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {
-    "name": "Capital Cities",
+    "name": "World Capitals Trainer",
     "description": "Multiple-choice/flashcard-based app for learning the capital cities of all countries.",
     "image": "assets/learn_capitals.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_capital_cities&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -48,15 +48,23 @@
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {
-    "name": "Zitate",
-    "description": "Multiple-choice/flashcard-based app for learning \"Berühmte Zitate & Aphorismen\".",
-    "image": "assets/learn_zitate.png",
-    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_zitate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
-    "urlApple": "https://apps.apple.com/us/app/lerne-zitate/id6468910576?itsct=apps_box_badge&amp;itscg=30200",
+    "name": "Kfz-Kennzeichen Trainer",
+    "description": "Multiple-choice/flashcard-based app for learning German license plate codes.",
+    "image": "assets/learn_plates_de.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_plates_de&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+    "urlApple": "https://apps.apple.com/de/app/kfz-kennzeichen-trainer/id6756233280?itsct=apps_box_badge&amp;itscg=30200",
     "lang": ["de"]
   },
   {
-    "name": "Famous Paintings",
+    "name": "Zitate Trainer",
+    "description": "Multiple-choice/flashcard-based app for learning \"Berühmte Zitate & Aphorismen\".",
+    "image": "assets/learn_zitate.png",
+    "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_zitate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+    "urlApple": "https://apps.apple.com/de/app/lerne-zitate/id6468910576?itsct=apps_box_badge&amp;itscg=30200",
+    "lang": ["de"]
+  },
+  {
+    "name": "Famous Paintings Trainer",
     "description": "Multiple-choice/flashcard-based app for learning everything about famous paintings.",
     "image": "assets/learn_paintings.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_paintings&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -64,7 +72,7 @@
     "lang": ["en", "de"]
   },
   {
-    "name": "Latin Phrases",
+    "name": "Latin Phrases Trainer",
     "description": "Multiple-choice/flashcard-based app for learning Latin proverbs, quotes & idioms.",
     "image": "assets/learn_latin_phrases.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_latin_phrases&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -72,15 +80,15 @@
     "lang": ["en", "de"]
   },
   {
-    "name": "Wortschatz Bildungssprache",
+    "name": "Gehobener Wortschatz Trainer",
     "description": "Multiple-choice/flashcard-based app for learning German \"Fremdwörter und bildungssprachliche Begriffe\".",
     "image": "assets/learn_wortschatz.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_wortschatz&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
-    "urlApple": "https://apps.apple.com/us/app/wortschatz-bildungssprache/id6446649489?itsct=apps_box_badge&amp;itscg=30200",
+    "urlApple": "https://apps.apple.com/de/app/wortschatz-bildungssprache/id6446649489?itsct=apps_box_badge&amp;itscg=30200",
     "lang": ["de"]
   },
   {
-    "name": "Multiplication",
+    "name": "Times Tables Practice",
     "description": "Multiple-choice/flashcard-based app for learning multiplication up to 20x20.",
     "image": "assets/learn_multiplication.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_multiply&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -88,7 +96,7 @@
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {
-    "name": "Greek Alphabet",
+    "name": "Greek Alphabet Trainer",
     "description": "Multiple-choice/flashcard-based app for learning the Greek Alphabet.",
     "image": "assets/learn_greek_alphabet.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_greek_alphabet&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -96,23 +104,23 @@
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {
-    "name": "Seemannssprache",
+    "name": "Seemannssprache Trainer",
     "description": "Multiple-choice/flashcard-based app for learning \"Seemannssprache\".",
     "image": "assets/learn_seemannssprache.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_seemannssprache&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
-    "urlApple": "https://apps.apple.com/us/app/seemannssprache/id6744369742?itsct=apps_box_badge&amp;itscg=30200",
+    "urlApple": "https://apps.apple.com/de/app/seemannssprache/id6744369742?itsct=apps_box_badge&amp;itscg=30200",
     "lang": ["de"]
   },
   {
-    "name": "Jägersprache",
+    "name": "Jägersprache Trainer",
     "description": "Multiple-choice/flashcard-based app for learning German \"Jägersprache\".",
     "image": "assets/learn_jaegersprache.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_jaegersprache&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
-    "urlApple": "https://apps.apple.com/us/app/lerne-j%C3%A4gersprache/id6470146287?itsct=apps_box_badge&amp;itscg=30200",
+    "urlApple": "https://apps.apple.com/de/app/lerne-j%C3%A4gersprache/id6470146287?itsct=apps_box_badge&amp;itscg=30200",
     "lang": ["de"]
   },
   {
-    "name": "American States",
+    "name": "US States Trainer",
     "description": "Multiple-choice/flashcard-based app for learning all states of the United States.",
     "image": "assets/learn_american_states.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_american_states&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -120,7 +128,7 @@
     "lang": ["en", "de", "es", "fr", "it"]
   },
   {
-    "name": "U.S. Presidents",
+    "name": "US Presidents Trainer",
     "description": "Multiple-choice/flashcard-based app for learning all presidents of the United States.",
     "image": "assets/learn_us_presidents.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_us_presidents&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
@@ -128,7 +136,7 @@
     "lang": ["en", "de"]
   },
   {
-    "name": "Sophisticated Vocabulary",
+    "name": "Rare English Words Trainer",
     "description": "Multiple-choice/flashcard-based app for learning sophisticated English vocabulary.",
     "image": "assets/learn_sophisticated_vocabulary.png",
     "urlGoogle": "https://play.google.com/store/apps/details?id=com.philstraub.learn_sophisticated_vocabulary&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",

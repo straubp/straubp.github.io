@@ -1,7 +1,7 @@
 [
   {
     "titleByLanguage": {
-      "en": "Tourist in Japan"
+      "en": "Travel Japanese Trainer"
     },
     "image": "https://www.philstraub.com/assets/phrases_jp.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_phrases_jp",
@@ -9,8 +9,8 @@
   },
   {
     "titleByLanguage": {
-      "en": "Flags of the World",
-      "de": "Flaggen der Welt",
+      "en": "World Flags",
+      "de": "Weltflaggen",
       "es": "Banderas del mundo",
       "fr": "Drapeaux du monde",
       "it": "Bandiere del mondo"
@@ -23,9 +23,9 @@
     "titleByLanguage": {
       "en": "Hiragana & Katakana",
       "de": "Hiragana & Katakana",
-      "es": "Hiragana & Katakana",
+      "es": "Hiragana y Katakana",
       "fr": "Hiragana & Katakana",
-      "it": "Hiragana & Katakana"
+      "it": "Hiragana e Katakana"
     },
     "image": "https://www.philstraub.com/assets/learn_hiragana.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_hiragana_katakana",
@@ -45,8 +45,8 @@
   },
   {
     "titleByLanguage": {
-      "en": "U.S. Presidents",
-      "de": "US Präsidenten"
+      "en": "US Presidents",
+      "de": "US-Präsidenten"
     },
     "image": "https://www.philstraub.com/assets/learn_us_presidents.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_us_presidents",
@@ -54,11 +54,11 @@
   },
   {
     "titleByLanguage": {
-      "en": "Capital Cities",
-      "de": "Hauptstädte",
-      "es": "Ciudades Capitales",
-      "fr": "Capitales",
-      "it": "Città Capitali"
+      "en": "World Capitals",
+      "de": "Welt-Hauptstädte",
+      "es": "Capitales del mundo",
+      "fr": "Capitales du monde",
+      "it": "Capitali del mondo"
     },
     "image": "https://www.philstraub.com/assets/learn_capitals.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_capital_cities",
@@ -84,27 +84,35 @@
   },
   {
     "titleByLanguage": {
+      "de": "Kfz-Kennzeichen"
+    },
+    "image": "https://www.philstraub.com/assets/learn_plates_de.png",
+    "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_plates_de",
+    "iosShopUrl": "https://apps.apple.com/de/app/kfz-kennzeichen-trainer/id6756233280"
+  },
+  {
+    "titleByLanguage": {
       "de": "Zitate"
     },
     "image": "https://www.philstraub.com/assets/learn_zitate.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_zitate",
-    "iosShopUrl": "https://apps.apple.com/us/app/lerne-zitate/id6468910576"
+    "iosShopUrl": "https://apps.apple.com/de/app/lerne-zitate/id6468910576"
   },
   {
     "titleByLanguage": {
-      "de": "Wortschatz: Bildungssprache"
+      "de": "Gehobener Wortschatz"
     },
     "image": "https://www.philstraub.com/assets/learn_wortschatz.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_wortschatz",
-    "iosShopUrl": "https://apps.apple.com/us/app/wortschatz-bildungssprache/id6446649489"
+    "iosShopUrl": "https://apps.apple.com/de/app/wortschatz-bildungssprache/id6446649489"
   },
   {
     "titleByLanguage": {
-      "en": "Multiplication",
-      "de": "Multiplikation",
-      "es": "Multiplicación",
-      "fr": "Multiplication",
-      "it": "Moltiplicazione"
+      "en": "Times Tables",
+      "de": "Malrechnen",
+      "es": "Tablas 20×20",
+      "fr": "Tables 20×20",
+      "it": "Tabelline 20×20"
     },
     "image": "https://www.philstraub.com/assets/learn_multiplication.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_multiply",
@@ -128,7 +136,7 @@
     },
     "image": "https://www.philstraub.com/assets/learn_seemannssprache.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_seemannssprache",
-    "iosShopUrl": "https://apps.apple.com/us/app/seemannssprache/id6744369742"
+    "iosShopUrl": "https://apps.apple.com/de/app/seemannssprache/id6744369742"
   },
   {
     "titleByLanguage": {
@@ -136,15 +144,15 @@
     },
     "image": "https://www.philstraub.com/assets/learn_jaegersprache.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_jaegersprache",
-    "iosShopUrl": "https://apps.apple.com/us/app/lerne-j%C3%A4gersprache/id6470146287"
+    "iosShopUrl": "https://apps.apple.com/de/app/lerne-j%C3%A4gersprache/id6470146287"
   },
   {
     "titleByLanguage": {
-      "en": "American States",
-      "de": "Amerikanische Staaten",
-      "es": "Estados Americanos",
+      "en": "US States",
+      "de": "US-Bundesstaaten",
+      "es": "Estados de EE. UU.",
       "fr": "États Américains",
-      "it": "Stati Americani"
+      "it": "Stati USA"
     },
     "image": "https://www.philstraub.com/assets/learn_american_states.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_american_states",
@@ -152,7 +160,7 @@
   },
   {
     "titleByLanguage": {
-      "en": "Sophisticated Vocabulary"
+      "en": "Rare English Words"
     },
     "image": "https://www.philstraub.com/assets/learn_sophisticated_vocabulary.png",
     "androidShopUrl": "https://play.google.com/store/apps/details?id=com.philstraub.learn_sophisticated_vocabulary",
